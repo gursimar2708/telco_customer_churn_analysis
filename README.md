@@ -34,7 +34,7 @@ Python, using pandas, numpy, matplotlib and seaborn, all in a Jupyter Notebook.
 Push month to month customers toward longer contracts, especially early in their time as a customer. Build some kind of outreach or check in process for customers in their first 90 days, since that's when churn risk is highest. Bundle services together so customers have more reason to stay. And look into why electronic check users are churning so much, then encourage them to switch to automatic payments.
 
 ## Files in This Repo
-`churn_analysis.ipynb` has the full notebook with code and explanations. `Telco_customer_churn.csv` is the dataset. The `images` folder has the charts saved separately.
+`churn_analysis.ipynb` has the full notebook with code and explanations. `Telco_customer_churn.csv` is the dataset.
 
 ## About Me
 Gursimar Kour. This is one of the first projects in my data analyst portfolio.
